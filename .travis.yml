@@ -1,1 +1,4 @@
 script: "rake spec reek"
+language: ruby
+rvm:
+  - 1.9.3
