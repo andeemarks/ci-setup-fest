@@ -7,3 +7,5 @@ The app is nothing more than a Hello World implementation with an associated Rak
 
 * Execute automated tests (using RSpec)
 * Check the quality of the code (using Reek)
+
+
